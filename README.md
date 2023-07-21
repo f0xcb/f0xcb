@@ -3,5 +3,5 @@
 #### A Full-Stack Developer
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.less`, `.svg`
-- 🌍 I'm mostly active on this projects: [planlos-chemnitz](https://github.com/planlos-chemnitz) and [devstorage whois-api](https://github.com/DevStorageEU/WhoisAPI)
+- 🌍 I'm mostly active on this projects: i don´t have enough time for it :(
 <!-- - 📫 Reach me: [twitter.com/](https://twitter.com/) -->
